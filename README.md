@@ -1,4 +1,4 @@
-# Iosevka SS13 WebFont 26.3.2
+# Iosevka SS13 WebFont 26.3.3
 
 ## How to use
 
